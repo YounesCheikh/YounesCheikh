@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Some lines about me:
+Software Engineer, husband and father.
+Very passionate about technologies, programming languages and algorithms.
+
 <!--
 **cyounes/cyounes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
