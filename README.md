@@ -2,9 +2,17 @@
 
 ### Hi there 👋
 
-Some lines about me:
+##### Some lines about me:
 Software Engineer, husband and father.
 Very passionate about technologies, programming languages and algorithms.
+
+##### Projects I'm working on
+In the [repositories list](https://github.com/YounesCheikh?tab=repositories) you can find some awesome projects that I've developed or I'm participating on their development. 
+
+###### Hints ⚡:
+- [ObservableConcurrentQueue](https://github.com/YounesCheikh/ObservableConcurrentQueue) 
+
+> More amazing things coming here! 
 
 <!--
 **YounesCheikh/YounesCheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
