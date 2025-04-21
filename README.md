@@ -13,7 +13,7 @@ Very passionate about technologies, programming languages and algorithms.
 In the [repositories list](https://github.com/YounesCheikh?tab=repositories) you can find some awesome projects that I've developed or I'm participating on their development. 
 
 ###### Hints ⚡:
-- 💬 I'm writing from time to time on my blog [SomeCode.NET](https://somecode.net)
+- 💬 I'm writing from time to time on my blog [cYounes.com](https://cyounes.com)
 - ⚡ [ObservableConcurrentQueue](https://github.com/YounesCheikh/ObservableConcurrentQueue) 
 
 
